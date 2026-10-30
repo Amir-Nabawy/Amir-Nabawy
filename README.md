@@ -48,4 +48,5 @@
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=Amir-Nabawy&show_icons=true&theme=radical" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amir-Nabawy&layout=compact&theme=radical" width="48%" />
+</p>&layout=compact&theme=radical" width="48%" />
 </p>
