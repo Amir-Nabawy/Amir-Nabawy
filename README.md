@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Amir Nabawy 👋</h1>
+<h1 align="center"><span style="color: #3B82F6;">Hi , I'm Amir Nabawy 👋</span></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Flutter+%26+Dart+Developer;MIS+Student+at+Tanta;Building+Cross-Platform+Apps" alt="Typing SVG" />
@@ -17,6 +17,9 @@
   </a>
   <a href="https://www.linkedin.com/in/amir-alskafy-135ba1437" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://wa.me/20YOUR_PHONE_NUMBER" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   <a href="mailto:amir.alskafy2007@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -48,5 +51,5 @@
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=Amir-Nabawy&show_icons=true&theme=radical" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amir-Nabawy&layout=compact&theme=radical" width="48%" />
-</p>&layout=compact&theme=radical" width="48%" />
+</p>
 </p>
