@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <span style="color: #3B82F6;"><b>Flutter &nbsp;•&nbsp; Dart &nbsp;•&nbsp; C++ &nbsp;•&nbsp; Git &nbsp;•&nbsp; VS Code</b></span>
+  <img src="https://img.shields.io/badge/Flutter_%E2%80%A2_Dart_%E2%80%A2_C++_%E2%80%A2_Git_%E2%80%A2_VS_Code-3B82F6?style=for-the-badge&logoColor=white" alt="Tech Stack" />
 </p>
 
 ---
@@ -44,6 +44,14 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Amir-Nabawy&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amir-Nabawy&layout=compact&theme=radical" width="48%" />
 </p>
 
 ---
