@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Flutter_%E2%80%A2_Dart_%E2%80%A2_C++_%E2%80%A2_Git_%E2%80%A2_VS_Code-3B82F6?style=for-the-badge&logoColor=white" alt="Tech Stack" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=550&lines=Flutter+%26+Dart+Developer;MIS+Student+at+Tanta;Building+Cross-Platform+Apps" alt="Typing SVG" />
 </p>
 
 ---
@@ -52,13 +52,5 @@
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=Amir-Nabawy&show_icons=true&theme=radical" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amir-Nabawy&layout=compact&theme=radical" width="48%" />
-</p>
-
----
-
-### 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Amir-Nabawy&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amir-Nabawy&layout=compact&theme=radical" width="48%" />
-</p>me-stats.vercel.app/api/top-langs/?username=Amir-Nabawy&layout=compact&theme=radical" width="48%" />
+</p>ompact&theme=radical" width="48%" />
 </p>
