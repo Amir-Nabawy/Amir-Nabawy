@@ -1,13 +1,14 @@
-<h1 align="center" style="color: #3B82F6;">Hi there, I'm Amir Nabawy 👋</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=220&section=header&text=Amir%20Nabawy&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Flutter%20Developer%20|%20MIS%20Student&descSize=20&descAlignY=62" width="100%" />
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghprofile/?username=Amir-Nabawy&color=blueviolet&style=flat-square" alt="Amir-Nabawy" />
+  <b>Flutter &nbsp;•&nbsp; Dart &nbsp;•&nbsp; C++ &nbsp;•&nbsp; Git &nbsp;•&nbsp; VS Code</b>
 </p>
 
 ---
 
-### 🌐 Connect with me:
-<p>
+<p align="center">
   <a href="https://github.com/Amir-Nabawy" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -20,6 +21,10 @@
   <a href="mailto:amir.alskafy2007@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghprofile/?username=Amir-Nabawy&color=blueviolet&style=flat-square" alt="Amir-Nabawy" />
 </p>
 
 ---
