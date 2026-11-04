@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <b>Flutter &nbsp;•&nbsp; Dart &nbsp;•&nbsp; C++ &nbsp;•&nbsp; Git &nbsp;•&nbsp; VS Code</b>
+  <span style="color: #3B82F6;"><b>Flutter &nbsp;•&nbsp; Dart &nbsp;•&nbsp; C++ &nbsp;•&nbsp; Git &nbsp;•&nbsp; VS Code</b></span>
 </p>
 
 ---
