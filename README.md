@@ -1,42 +1,25 @@
-<h1 align="center"><span style="color: #3B82F6;">Hi , I'm Amir Nabawy 👋</span></h1>
+<div align="center">
+  <h1>Hi 👋, I'm Amir Nabawy</h1>
+  <h3>Flutter & Dart Developer | MIS Student</h3>
+</div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Flutter+%26+Dart+Developer;MIS+Student+at+Tanta;Building+Cross-Platform+Apps" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghprofile/?username=Amir-Nabawy&color=blueviolet&style=flat-square" alt="Amir-Nabawy" />
+  <b>Flutter • Dart • Clean Architecture • REST APIs • Problem Solving</b>
 </p>
 
 ---
 
-### 🌐 Connect with me:
-<p>
-  <a href="https://github.com/Amir-Nabawy" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/amir-alskafy-135ba1437" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://wa.me/20YOUR_PHONE_NUMBER" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-  <a href="mailto:amir.alskafy2007@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+## 👨‍💻 About Me
+
+* 💻 I'm currently learning and developing cross-platform mobile apps using **Flutter & Dart**.
+* 🎓 **MIS Student** at High Institute for Computers, Information & Technology Tanta.
+* ⚡ Passionate about writing clean code, problem solving, and building real-world projects[cite: 2].
 
 ---
 
-### 🚀 About Me
-- 🌱 I’m currently learning and developing cross-platform mobile apps using **Flutter & Dart**.
-- 🎓 MIS Student at High Institute for Computers, Information & Technology Tanta.
-- ⚡ Passionate about writing clean code, problem-solving, and building real-world projects.
+## 🛠️ Tech Stack & Tools
 
----
-
-### 🛠️ Tech Stack & Tools
-<p>
+<p align="left">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -47,12 +30,8 @@
 
 ---
 
-### 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Amir-Nabawy&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amir-Nabawy&layout=compact&theme=radical" width="48%" />
-</p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Amir-Nabawy&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amir-Nabawy&layout=compact&theme=radical" width="48%" />
-</p>
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Amir-Nabawy&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
