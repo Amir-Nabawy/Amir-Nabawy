@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=220&section=header&text=Amir%20Nabawy&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Flutter%20Developer%20|%20MIS%20Student&descSize=20&descAlignY=62" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=220&section=header&text=Amir%20Nabawy&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Flutter%20Developer%20|%20Management%20Information%20Systems%20Student&descSize=16&descAlignY=62" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=550&lines=Flutter+%26+Dart+Developer;MIS+Student+at+Tanta;Building+Cross-Platform+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Flutter+%26+Dart+Developer;Management+Information+Systems+Student;Building+Cross-Platform+Apps" alt="Typing SVG" />
 </p>
 
 ---
@@ -50,6 +50,9 @@
 
 ### 📊 GitHub Stats
 <p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Amir-Nabawy&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amir-Nabawy&layout=compact&theme=radical" width="48%" />
+</p>
   <img src="https://github-readme-stats.vercel.app/api?username=Amir-Nabawy&show_icons=true&theme=radical" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amir-Nabawy&layout=compact&theme=radical" width="48%" />
 </p>ompact&theme=radical" width="48%" />
